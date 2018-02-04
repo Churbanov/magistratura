@@ -64,4 +64,4 @@ docker@node1:~$ docker swarm join --token SWMTKN-1-2jqm3wwqneualaj0e45c3mkzftcyx
 
 - [ ] Масштабируемость достигается при двух элементах.
 
-      ​       [на главную](main.md)  
+[на главную](main.md)
