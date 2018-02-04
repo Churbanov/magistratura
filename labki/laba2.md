@@ -1,6 +1,4 @@
-# Проектирование облачной файловой системы.
-
-## Исследование Swarm-mode Docker.
+# Исследование Swarm-mode Docker.
 
 ​	Рассмотрим инициализацию Docker swarm mode на примере docker-machine.
 
