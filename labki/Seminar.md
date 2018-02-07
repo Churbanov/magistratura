@@ -4,7 +4,7 @@
 
 ​	
 
-                                             ![logo_intel](logo_intel.jpg)
+   ![logo_intel](logo_intel.jpg)
 
 
 
@@ -29,6 +29,7 @@
 - [ ] Apollo Lake Intel® Pentium ™;
 
 - [ ] Процессоры Celeron ™ G, N и J;
+
 
       **Так чем же опасна уязвимость?**
 
