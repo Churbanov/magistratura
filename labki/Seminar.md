@@ -4,7 +4,7 @@
 
 ​	
 
-![logo_intel](logo_intel.jpg)
+                                             ![logo_intel](logo_intel.jpg)
 
 
 
