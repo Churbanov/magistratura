@@ -92,8 +92,6 @@ docker-compose up -d
 
 ![containers_det_2](containers_det_2.png)
 
-![containers_console](containers_console.png)
-
 ​	На странице Images можно удалять/искать/скачивать docker-образы — по умолчанию используется Docker Hub, но также можно добавить и свой личный docker registry.
 
 ​	Стоит упомянуть, что при добавлении в Portainer Swarm-кластера (делается это на странице Endpoints), в меню слева появятся дополнительные пункты — Swarm (с подробной информацией о нодах кластера) и Services (для управления сервисами и масштабирования):
