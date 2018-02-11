@@ -15,7 +15,7 @@
 
 ​	Kitematic предлагает простой в навигации графический интерфейс, с популярными изображениями Docker, доступными для запуска при установке. К ним относятся Ghost, Minecraft, RethinkDB и многие другие. Docker предлагает мощное управление контейнерами, включая масштабирование]. 
 
-![laba3_b](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\laba3_b.PNG)
+![laba3_b](laba3_b.PNG)
 
 
 
@@ -23,7 +23,7 @@
 
 ​	Для небольших разработчиков команды, работающие на ПК, клонирование, управление и развертывание приложения через Kitematic - это беспрепятственный опыт и значительно более удобный для пользователя, чем CLI.
 
-![laba3_a](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\laba3_a.PNG)
+![laba3_a](laba3_a.PNG)
 
 
 
@@ -35,7 +35,7 @@
 
 ​	Открытие Kitematic в первый раз устанавливает все необходимое для запуска контейнеров Docker. Если вы еще не установили VirtualBox, Kitematic загрузит и установит последнюю версию.
 
-![laba3_1](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\laba3_1.PNG)
+![laba3_1](laba3_1.PNG)
 
 Все сделано! Через минуту вы должны быть готовы начать свой первый контейнер!
 
@@ -80,25 +80,25 @@ docker-compose up -d
 
 ​	При логине первой отображается страница Dashboard с общей информацией о состоянии docker’а:
 
-![dashboard](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\dashboard.png)
+![dashboard](dashboard.png)
 
 ​	Следующая интересующая нас страница — Containers. Здесь можно выполнить базовые действия над контейнерами — запустить, остановить, удалить, создать новый и т. д.:
 
-![contain0](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\contain0.png)
+![contain0](contain0.png)
 
 ​	При клике на отдельном контейнере можно получить о нем гораздо больше информации и дополнительные возможности, например, просмотр логов и подключение к консоли контейнера прямо из браузера:
 
-![containers_det_1](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\containers_det_1.png)
+![containers_det_1](containers_det_1.png)
 
-![containers_det_2](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\containers_det_2.png)
+![containers_det_2](containers_det_2.png)
 
-![containers_console](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\containers_console.png)
+![containers_console](containers_console.png)
 
 ​	На странице Images можно удалять/искать/скачивать docker-образы — по умолчанию используется Docker Hub, но также можно добавить и свой личный docker registry.
 
 ​	Стоит упомянуть, что при добавлении в Portainer Swarm-кластера (делается это на странице Endpoints), в меню слева появятся дополнительные пункты — Swarm (с подробной информацией о нодах кластера) и Services (для управления сервисами и масштабирования):
 
-![endpoint](C:\Users\aachu\OneDrive\Документы\GitHub\magistratura\labki\endpoint.png)
+![endpoint](endpoint.png)
 
 
 
